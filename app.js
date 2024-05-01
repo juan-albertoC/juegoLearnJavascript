@@ -1,3 +1,11 @@
+
+/*
+Learn Javascript con un juego de adivina el numero
+create by Programador: Juan Alberto Cuevas Juarez
+2 Marzo 2024
+
+*/
+
 let numeroSecreto = 0; 
 
 let intentos = 0;
